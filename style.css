@@ -186,5 +186,7 @@
     z-index: 2;
     height: 100%;
     width: 15%;
+    background-image: url("media/ad.png");
+    background-size: cover;
     /*background-color: #3b3b3b;*/
 }
