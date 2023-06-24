@@ -30,3 +30,9 @@ Meteold leverages the following technologies:
 3. Click on the map to place pins on the desired locations.
 4. The pinned locations will display weather information for the past 3-5 days.
 5. Have fun planning your outdoor activities based on historical weather data!
+
+#
+
+![Demo](media/demo.png)
+
+
